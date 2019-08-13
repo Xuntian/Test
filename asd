@@ -1,4 +1,3 @@
 asd
 docker 
 qwe
-asd
